@@ -1,4 +1,5 @@
-.results {
+.results > div {
+  /* div is added bcoz FlipMove added a div  */
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
